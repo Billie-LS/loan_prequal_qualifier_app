@@ -103,13 +103,15 @@ git clone git@github.com:Billie-LS/FinTech_Homeworks.git
 ```
 
 ---
-## *Usage*
+## **Usage**
 
 From terminal, the installed application is run from the installed directory by typing at prompt:
 
 ```python
-  > python app.py
+  python app.py
 ```
+![Loan Qualifier Prompts](images/app_on.png)
+
 the following images will display sequential steps and prompts under four example protypical applicant scenarios.
 
 ###    scenario 1 - typical good candidate
