@@ -22,11 +22,11 @@ The command line interface operator/user will input
         desired loan size
         current home value
 
-    the user / operator will be prompted for loan applicant's desire to save or not save,
-    the app will output as to available matches found or none found to be saved,
-    if no matches are identified, file path to save list of banks and associated loan data,
-    the user / operator will be be prompted for a fil path to where the list should be saved,
-    the user / operator will be finally be notified that the file has been saved to the specified path 
+    * the user / operator will be prompted for loan applicant's desire to save or not save,
+    * the app will output as to available matches found or none found to be saved,
+    * if no matches are identified, file path to save list of banks and associated loan data,
+    * the user / operator will be be prompted for a fil path to where the list should be saved,
+    * the user / operator will be finally be notified that the file has been saved to the specified path 
 
 ---
 ## Dependencies
@@ -142,7 +142,7 @@ the following images will display sequential steps and prompts under three examp
 *Author*
 
     Loki 'billie' Skylizard
-    * [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
+    > [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
 
 *BootCamp lead instructor*
 

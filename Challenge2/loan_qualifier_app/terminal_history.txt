@@ -1,0 +1,1205 @@
+ 1365  code .
+ 1366  ls
+ 1367  cd ..
+ 1368  ls
+ 1369  cd ..
+ 1370  ls
+ 1371  cd 01_Loan_Qualifier_Financial_Calculations
+ 1372  code .
+ 1373  conda deactivate
+ 1374  conda
+ 1375  clear
+ 1376  conda activate dev
+ 1377  ls
+ 1378  cd 01_Loan_Qualifier_Financial_Calculations
+ 1379  clear
+ 1380  code .
+ 1381  jupyter lab
+ 1382  git pull
+ 1383  conda 
+ 1384  conda activate dev
+ 1385  clear
+ 1386  code .
+ 1387  jupyter lab
+ 1388  conda
+ 1389  conda activate dev
+ 1390  clear
+ 1391  code .
+ 1392  ls .\data\daily_rate_sheet.csv
+ 1393  ls
+ 1394  cd Unsolved
+ 1395  ls
+ 1396  python app.py
+ 1397  ls
+ 1398  cd Unsolved
+ 1399  python app.py
+ 1400  clear
+ 1401  python app.py
+ 1402  ls .\data\daily_rate_sheet.csv
+ 1403  ls .\data\daily_rate_sheet.csv/
+ 1404  ls ./data/daily_rate_sheet.csv
+ 1405  clear
+ 1406  ls ./data/daily_rate_sheet.csv
+ 1407  cd ..
+ 1408  ls
+ 1409  code ..
+ 1410  cd ..
+ 1411  ls
+ 1412  cd 01_Loan_Qualifier_Financial_Calculations
+ 1413  ls
+ 1414  cd Unsolved
+ 1415  code .
+ 1416  cd ..
+ 1417  ls
+ 1418  cd ..
+ 1419  ls
+ 1420  cd 02_Loan_Qualifier_Filtering_Data
+ 1421  ls
+ 1422  cd Uns
+ 1423  cd Unsolved
+ 1424  code ..
+ 1425  ls
+ 1426  cd Unsolved
+ 1427  ls
+ 1428  python app.py
+ 1429  clear
+ 1430  python app.py
+ 1431  clear
+ 1432  python app.py
+ 1433  clear
+ 1434  conda activate dev
+ 1435  clear
+ 1436  python app.py
+ 1437  clear
+ 1438  python app.py
+ 1439  clear
+ 1440  python app.py
+ 1441  conda deactivate
+ 1442  cd ~
+ 1443  conda
+ 1444  clear
+ 1445  conda activate
+ 1446  ls
+ 1447  code .
+ 1448  conda deactivate
+ 1449  git pull
+ 1450  conda
+ 1451  conda activate dev
+ 1452  clear
+ 1453  code .
+ 1454  conda
+ 1455  conda activate dev
+ 1456  clear
+ 1457  code .
+ 1458  conda deactivate
+ 1459  git pull
+ 1460  conda
+ 1461  conda activate dev
+ 1462  clear
+ 1463  code .
+ 1464  conda
+ 1465  conda activate dev
+ 1466  code .
+ 1467  clear
+ 1468  python app.py
+ 1469  clear
+ 1470  python app.py
+ 1471  clear
+ 1472  python app.py
+ 1473  clear
+ 1474  python app.py
+ 1475  clear
+ 1476  python app.py
+ 1477  clear
+ 1478  conda
+ 1479  conda activate dev
+ 1480  clear
+ 1481  python app.py
+ 1482  conda activate dev
+ 1483  conda
+ 1484  clear
+ 1485  code .
+ 1486  conda
+ 1487  conda activate dev
+ 1488  code .
+ 1489  python app.py
+ 1490  conda
+ 1491  clear
+ 1492  conda activate dev
+ 1493  python app.py
+ 1494  clear
+ 1495  python app.py
+ 1496  conda
+ 1497  conda activate dev
+ 1498  clear
+ 1499  code .
+ 1500  clear
+ 1501  python app.py
+ 1502  conda activate dev
+ 1503  clear
+ 1504  python app.py
+ 1505  clear
+ 1506  python app.py
+ 1507  conda
+ 1508  conda activate dev
+ 1509  code .
+ 1510  clear
+ 1511  python app.py
+ 1512  git pull
+ 1513  conda
+ 1514  conda activate dev
+ 1515  code .
+ 1516  clear
+ 1517  python app.py
+ 1518  conda activate dev
+ 1519  clear
+ 1520  git add *
+ 1521  cd ..
+ 1522  git add *
+ 1523  git commit -m 'practice assignment first modularition of app'
+ 1524  git push
+ 1525  clear
+ 1526  conda deactivate
+ 1527  deactivate
+ 1528  conda deactivate
+ 1529  cd ~
+ 1530  conda
+ 1531  clear
+ 1532  fire --version
+ 1533  brew
+ 1534  brew install fire
+ 1535  pip install fire
+ 1536  clear
+ 1537  pwd
+ 1538  ls
+ 1539  cd Desktop
+ 1540  ls
+ 1541  cd FinTech-Workspace
+ 1542  conda
+ 1543  clear
+ 1544  conda activate dev
+ 1545  clear
+ 1546  code .
+ 1547  conda activate dev
+ 1548  clear
+ 1549  python cli.py
+ 1550  cd canvas_practice
+ 1551  ls
+ 1552  python cli.py
+ 1553  clear
+ 1554  python cli.py
+ 1555  clear
+ 1556  python cli.py
+ 1557  clear
+ 1558  python cli.py
+ 1559  python cli.py --pants=True
+ 1560  pwd
+ 1561  ls
+ 1562  conda activate dev
+ 1563  clear
+ 1564  code .
+ 1565  conda activate dev
+ 1566  python app.py
+ 1567  python app.py --credit_score=750
+ 1568  python app.py
+ 1569  python app.py --credit_score=750
+ 1570  python app.py
+ 1571  python app.py --credit_score=750
+ 1572  cd ..
+ 1573  pwd
+ 1574  git add *
+ 1575  git commit -m 'attempt at cli coding with import fire\ngit commit -m 'attempt at cli with import fire'\n\nclear\n'
+ 1576  git add *
+ 1577  git commit -m 'attempt cli with import fire '
+ 1578  git push
+ 1579  ls
+ 1580  cd Modularization_Loan_Qualifier_Filtering
+ 1581  ls
+ 1582  python app.py --credit_score=750
+ 1583  python app.py --help
+ 1584  conda activate dev
+ 1585  python app.py --credit_score=750
+ 1586  clear
+ 1587  python app.py --credit_score=750
+ 1588  python app.py --credit_score=750 --debt=5000 ==income=60000
+ 1589  python app.py --credit_score=750 --debt=5000 --income=60000
+ 1590  clear
+ 1591  python app.py --credit_score=750 --debt=5000 --income=60000
+ 1592  conda deactivate
+ 1593  cd ..
+ 1594  git add *
+ 1595  git commit -m 'success import fire, use fire.Fire()'
+ 1596  git push
+ 1597  conda deactivate
+ 1598  git pull
+ 1599  ls
+ 1600  cd 02-Financial-Applications-Python
+ 1601  ls
+ 1602  cd 1
+ 1603  ls
+ 1604  cd Activities
+ 1605  ls
+ 1606  code .
+ 1607  conda deactivate
+ 1608  ls
+ 1609  cd 02-Financial-Applications-Python
+ 1610  conda activate
+ 1611  conda
+ 1612  conda activate dev
+ 1613  code .
+ 1614  ls
+ 1615  cd 1
+ 1616  code .
+ 1617  ls
+ 1618  cd 02
+ 1619  cd 02-Financial-Applications-Python
+ 1620  ls
+ 1621  cd 1
+ 1622  ls
+ 1623  cd ..
+ 1624  ls
+ 1625  cd 02-Financial-Applications-Python
+ 1626  ls
+ 1627  cd 1
+ 1628  ls
+ 1629  jupiter lab
+ 1630  conda
+ 1631  conda activate dev
+ 1632  jupyter lab
+ 1633  ls
+ 1634  cd 1
+ 1635  conda
+ 1636  conda activate dev
+ 1637  code .
+ 1638  conda deactivate
+ 1639  cd ~
+ 1640  conda
+ 1641  conda activate dev
+ 1642  jupyter lab
+ 1643  cd ..
+ 1644  ls
+ 1645  cd Desktop
+ 1646  ls
+ 1647  cd CU-VIRT-FIN-PT-08-2022-U-B
+ 1648  ls
+ 1649  jupyter lab
+ 1650  conda deactivate
+ 1651  conda activate dev
+ 1652  conda
+ 1653  clear
+ 1654  jupyter lab
+ 1655  code .
+ 1656  conda
+ 1657  conda activate dev
+ 1658  clear
+ 1659  python loan_analyzer.py
+ 1660  conda deactivate dev
+ 1661  conda deactivate
+ 1662  git add *
+ 1663  git commit -m 'homework1 / challenge1 final draft for submission'
+ 1664  git push
+ 1665  conda deactivate
+ 1666  git pull
+ 1667  conda deactivate
+ 1668  conda
+ 1669  conda activate dev
+ 1670  clear
+ 1671  code .
+ 1672  conda deactivate
+ 1673  clear
+ 1674  conda activate dev
+ 1675  clear
+ 1676  python app.py --credit_score=750 --debt=5000 --income=60000
+ 1677  clear
+ 1678  python app.py --credit_score=750 --debt=5000 --income=60000
+ 1679  cleare
+ 1680  clear
+ 1681  python app.py --credit_score=750 --debt=5000 --income=60000
+ 1682  conda deactivate
+ 1683  conda
+ 1684  conda activate dev
+ 1685  clear
+ 1686  code .
+ 1687  conda deactivate
+ 1688  R
+ 1689  pip install -U radian
+ 1690  pip3 install -U radian
+ 1691  pip --version
+ 1692  pip install -U radian
+ 1693  radian --version
+ 1694  radian
+ 1695  r
+ 1696  radian
+ 1697  head(mtcars)
+ 1698  r
+ 1699  head(mtcars)
+ 1700  radian
+ 1701  head(mtcars)
+ 1702  clear
+ 1703  R
+ 1704  pip install -U radian
+ 1705  clear
+ 1706  conda
+ 1707  conda activate dev
+ 1708  clear
+ 1709  ls
+ 1710  clear
+ 1711  code .
+ 1712  clear
+ 1713  conda activate dev
+ 1714  clear
+ 1715  python Python_practicestuff.py 
+ 1716  clear
+ 1717  python Python_practicestudd.py 
+ 1718  conda deactivate
+ 1719  clear
+ 1720  conda deactivate
+ 1721  conda
+ 1722  conda activate dev
+ 1723  code .
+ 1724  clear
+ 1725  conda activate dev
+ 1726  clear
+ 1727  conda deactivate
+ 1728  cd ~
+ 1729  ls
+ 1730  cd Unsolved
+ 1731  conda activate dev
+ 1732  conda
+ 1733  clear
+ 1734  code .
+ 1735  clear
+ 1736  conda deactivate
+ 1737  conda
+ 1738  conda activate dev
+ 1739  clear
+ 1740  code .
+ 1741  conda deactivate
+ 1742  pwd
+ 1743  cd ~
+ 1744  conda
+ 1745  conda activate dev
+ 1746  code .
+ 1747  clear
+ 1748  cd ..
+ 1749  ls
+ 1750  cd Unsolved
+ 1751  ls
+ 1752  code .
+ 1753  conda deactivate
+ 1754  conda
+ 1755  conda activate dev
+ 1756  code .
+ 1757  conda deactivate
+ 1758  conda activate dev
+ 1759  conda
+ 1760  clear
+ 1761  code .
+ 1762  conda deactivate
+ 1763  conda
+ 1764  conda activate base
+ 1765  conda activate dev
+ 1766  clear
+ 1767  code .
+ 1768  conda deactivate
+ 1769  conda
+ 1770  conda activate dev
+ 1771  clear
+ 1772  code .
+ 1773  conda activate dev
+ 1774  clear
+ 1775  python app.py
+ 1776  ls
+ 1777  cd U
+ 1778  cd Unsolved
+ 1779  ls
+ 1780  python app.py
+ 1781  python app.py --credit_score=750
+ 1782  clear
+ 1783  python app.py --credit_score=750
+ 1784  conda deactivate
+ 1785  pip install questionary
+ 1786  ls
+ 1787  cd Downloads
+ 1788  ls
+ 1789  cd ~
+ 1790  clear
+ 1791  conda deacticate
+ 1792  conda deactivate
+ 1793  conda
+ 1794  conda activate dev
+ 1795  clear
+ 1796  code .
+ 1797  questionary --version
+ 1798  version --questionary
+ 1799  clear
+ 1800  python dialog235.py
+ 1801  cd canvas_practice
+ 1802  clear
+ 1803  python dialog235.py
+ 1804  q()\n\nconda
+ 1805  conda deactivate
+ 1806  conda activate dev
+ 1807  python dialog235.py
+ 1808  conda deactivate
+ 1809  conda
+ 1810  conda activate dev
+ 1811  code .
+ 1812  conda activate dev
+ 1813  clear
+ 1814  python app.py --credit_score=750 --debt=5000 --income=20000
+ 1815  conda deactivate
+ 1816  conda
+ 1817  conda activate dev
+ 1818  code .
+ 1819  conda
+ 1820  conda activate dev
+ 1821  clear
+ 1822  code .
+ 1823  conda deactivate
+ 1824  conda
+ 1825  conda activate dev
+ 1826  code .
+ 1827  conda deactivate 
+ 1828  conda 
+ 1829  conda activate dev
+ 1830  code .
+ 1831  conda dectivate
+ 1832  conda activate dev
+ 1833  code .
+ 1834  conda deactivate
+ 1835  conda
+ 1836  conda activate dev
+ 1837  clear
+ 1838  jupyter lab
+ 1839  conda activate dev
+ 1840  conda deactivate
+ 1841  conda
+ 1842  conda activate dev
+ 1843  code .
+ 1844  activate dev
+ 1845  clear
+ 1846  python atm.py
+ 1847  pwd
+ 1848  ls
+ 1849  cd 02-Financial-Applications-Python
+ 1850  ls
+ 1851  cd 2
+ 1852  ls
+ 1853  cd Activities
+ 1854  ls
+ 1855  cd 02_Stu_Build_ATM_Functions
+ 1856  ls
+ 1857  cd Unsolved
+ 1858  python atm.py
+ 1859  pwd
+ 1860  conda deactivate
+ 1861  conda
+ 1862  conda activate dev
+ 1863  code .
+ 1864  python atm.py
+ 1865  conda deactivate
+ 1866  git status
+ 1867  git add *
+ 1868  git commit 
+ 1869  git add *
+ 1870  git commit -m 'challenge 1 folder clean'
+ 1871  git push
+ 1872  conda
+ 1873  conda activate dev
+ 1874  code .
+ 1875  conda deactivate
+ 1876  git add .
+ 1877  git commit -m 'eliminating extraneous files'
+ 1878  git push
+ 1879  conda deactivate
+ 1880  ls
+ 1881  clear
+ 1882  touch.gitignore
+ 1883  touch .gitignore
+ 1884  ls
+ 1885  ls -al
+ 1886  code .
+ 1887  git add .
+ 1888  git commit -m 'git .ignore'
+ 1889  git push
+ 1890  conda deactivate
+ 1891  clear
+ 1892  conda
+ 1893  clear
+ 1894  conda activate dev
+ 1895  ls
+ 1896  clear
+ 1897  ls
+ 1898  code .
+ 1899  conda deactivate
+ 1900  clear
+ 1901  conda activate dev
+ 1902  clear
+ 1903  ls
+ 1904  python app.py
+ 1905  clear
+ 1906  ls
+ 1907  cd ..
+ 1908  ls
+ 1909  cd ..
+ 1910  ls
+ 1911  cd 02_Loan_Qualifier_Filtering_Data
+ 1912  ls
+ 1913  cd Unsolved
+ 1914  code .
+ 1915  python app.py
+ 1916  clear
+ 1917  conda deactivate
+ 1918  conda activate base
+ 1919  conda activate dev
+ 1920  clear
+ 1921  cd ..
+ 1922  ls
+ 1923  01_Modularize_Your_Loan_Qualifier_Application
+ 1924  ls
+ 1925  cd Unsolved
+ 1926  code .
+ 1927  conda
+ 1928  clear
+ 1929  conda activate dev
+ 1930  clear
+ 1931  python app.py
+ 1932  conda deactivate
+ 1933  cd ..
+ 1934  ls
+ 1935  cd Student_solution1
+ 1936  code .
+ 1937  conda deactivate
+ 1938  conda
+ 1939  clear
+ 1940  ls
+ 1941  code .
+ 1942  cd ..
+ 1943  ls
+ 1944  cd Student_solution1
+ 1945  cd ..
+ 1946  ls
+ 1947  cd ..
+ 1948  ls
+ 1949  cd 02_Loan_Qualifier_Filtering_Data
+ 1950  ls
+ 1951  cd Unsolved
+ 1952  ls
+ 1953  clear
+ 1954  conda
+ 1955  conda activate dev
+ 1956  clear
+ 1957  pwd
+ 1958  conda deactivate
+ 1959  conda
+ 1960  conda activate dev
+ 1961  clear
+ 1962  code .
+ 1963  conda deactivate
+ 1964  clear
+ 1965  conda
+ 1966  clear
+ 1967  ls
+ 1968  code .
+ 1969  conda activate dev
+ 1970  clear
+ 1971  python app.py --credit_score=750
+ 1972  clear
+ 1973  python app.py --credit_score=750
+ 1974  clear
+ 1975  python app.py --credit_score=750 --debt=5000 --income=20000
+ 1976  conda deactivate
+ 1977  conda 
+ 1978  conda activate dev
+ 1979  clear
+ 1980  ls
+ 1981  code .
+ 1982  clear
+ 1983  conda
+ 1984  clear
+ 1985  conda activate dev
+ 1986  clear
+ 1987  app.py --help
+ 1988  clear
+ 1989  conda deactivate
+ 1990  conda
+ 1991  conda activate dev
+ 1992  clear
+ 1993  code .
+ 1994  python app.py --credit_score=750 --debt=5000 --income=20000
+ 1995  clear
+ 1996  python app.py
+ 1997  python app.py --credit_score=750 --debt=5000 --income=20000
+ 1998  python app.py
+ 1999  conda deactivate
+ 2000  ls
+ 2001  cd Desktop
+ 2002  git clone
+ 2003  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-08-2022-U-B.git
+ 2004  git pull
+ 2005  ls
+ 2006  cd CU-VIRT-FIN-PT-08-2022-U-B
+ 2007  git pull
+ 2008  conda deactivate
+ 2009  ls
+ 2010  cd Desktop
+ 2011  git clone git@github.com:Billie-LS/FinTech_class_exercises.git
+ 2012  ls
+ 2013  cd FinTech_class_exercises
+ 2014  git add .
+ 2015  git commit -m 'step by step loan qualifier exercises, module2'
+ 2016  git push
+ 2017  conda activate dev
+ 2018  code .
+ 2019  conda deactivate
+ 2020  cd ..
+ 2021  ls
+ 2022  cd FinTech_class_exercises
+ 2023  code .
+ 2024  conda deactivate
+ 2025  git add .
+ 2026  git commit -m ' adding .gitignore '
+ 2027  git push
+ 2028  clear
+ 2029  ls
+ 2030  cd 01_Loan_Qualifier_Financial_Calculations
+ 2031  code .
+ 2032  conda deactivate
+ 2033  conda add .
+ 2034  git add .
+ 2035  git commit -m 'start challenge2, starter code to homework repository'
+ 2036  git psuh
+ 2037  git push
+ 2038  code .
+ 2039  conda deactivate
+ 2040  conda
+ 2041  conda activate dev
+ 2042  clear
+ 2043  ls
+ 2044  cd loan_qualifier_app
+ 2045  ls
+ 2046  clear
+ 2047  code .
+ 2048  conda activate dev
+ 2049  python app.py
+ 2050  conda dectivate
+ 2051  clear
+ 2052  python --version
+ 2053  pip --version
+ 2054  fire --version
+ 2055  csv --version
+ 2056  conda --version
+ 2057  sys --version
+ 2058  pathlib --version
+ 2059  questionary --version
+ 2060  brew
+ 2061  brew --version
+ 2062  git --version
+ 2063  conda
+ 2064  fire
+ 2065  fire --version
+ 2066  Fire --version
+ 2067  pip list
+ 2068  pathlib --version
+ 2069  conda list
+ 2070  pip show pathlib
+ 2071  python
+ 2072  pip freeze | grep pathlib
+ 2073  clear
+ 2074  pip list | findstr pathlib
+ 2075  clear
+ 2076  library.__version__
+ 2077  python
+ 2078  sys.version_info.major
+ 2079  --version , -V , -VV
+ 2080  from platform import python_version\n \n \nprint("Current Python Version-", python_version())
+ 2081  clear
+ 2082  python app.py
+ 2083  clear
+ 2084  conda deactivate
+ 2085  cd ~
+ 2086  conda
+ 2087  clear
+ 2088  conda activate dev
+ 2089  code .
+ 2090  python app.py
+ 2091  ls
+ 2092  cd loan_qualifier_app
+ 2093  ls
+ 2094  conda activate dev
+ 2095  python app.py
+ 2096  clear
+ 2097  python app.py
+ 2098  clear
+ 2099  python app.py
+ 2100  clear
+ 2101  python app.py
+ 2102  clear
+ 2103  git add .
+ 2104  git commit -m 'share with tutor for assist'
+ 2105  git push
+ 2106  q()\nexit()\n\npython
+ 2107  clera
+ 2108  clear
+ 2109  ls
+ 2110  python app.py
+ 2111  conda activate dev
+ 2112  clear
+ 2113  python app.py
+ 2114  clear
+ 2115  python app.py
+ 2116  clear
+ 2117  python app.py
+ 2118  clear
+ 2119  python app.py
+ 2120  clear
+ 2121  python app.py
+ 2122  clear
+ 2123  python app.py
+ 2124  clear
+ 2125  python app.py
+ 2126  clear
+ 2127  python app.py
+ 2128  clear
+ 2129  python app.py
+ 2130  clear
+ 2131  git add .
+ 2132  git commit -m 'updated assignment for review with askBCS'
+ 2133  git push
+ 2134  clear
+ 2135  python app.py
+ 2136  clear
+ 2137  python app.py
+ 2138  clear
+ 2139  python app.py
+ 2140  clear
+ 2141  python app.py
+ 2142  clear
+ 2143  python app.py
+ 2144  clear
+ 2145  python app.py
+ 2146  clear
+ 2147  python app.py
+ 2148  conda deactivate
+ 2149  clear
+ 2150  conda activate dev
+ 2151  clear
+ 2152  python app.py
+ 2153  clear
+ 2154  python app.py
+ 2155  clear
+ 2156  python app.py
+ 2157  conda deactivate
+ 2158  conda
+ 2159  conda activate dev
+ 2160  python app.py
+ 2161  conda deactivate
+ 2162  git add .
+ 2163  git commit -m 'initial draft challenge code/script and initial draft README'
+ 2164  git push
+ 2165  cd ..
+ 2166  ls
+ 2167  cd FinTech_Homeworks
+ 2168  git add .
+ 2169  git commit -m 'homework repository alignment'
+ 2170  git push
+ 2171  conda deactivate
+ 2172  clear
+ 2173  ls
+ 2174  conda
+ 2175  conda activate dev
+ 2176  clear
+ 2177  code .
+ 2178  conda deactivate
+ 2179  conda --version
+ 2180  python --version
+ 2181  conda
+ 2182  anaconda --version
+ 2183  conda
+ 2184  conda activate dev
+ 2185  clear
+ 2186  ls
+ 2187  code .
+ 2188  conda
+ 2189  conda activate dev
+ 2190  clear
+ 2191  python app.py
+ 2192  clear
+ 2193  python app.py
+ 2194  anaconda --version
+ 2195  conda --version
+ 2196  python --version
+ 2197  clear
+ 2198  python app.py
+ 2199  clear
+ 2200  python app.py
+ 2201  clear
+ 2202  python app.py
+ 2203  clear
+ 2204  python app.py
+ 2205  clear
+ 2206  python app.py
+ 2207  cd ..
+ 2208  ls
+ 2209  cd FinTech_Homeworks
+ 2210  git add .
+ 2211  git add *
+ 2212  git commit -m 'initial working draft challenge2'
+ 2213  git push
+ 2214  conda deactivate
+ 2215  conda activate dev
+ 2216  python app.py
+ 2217  clear
+ 2218  python app.py
+ 2219  conda deactivate
+ 2220  git pull
+ 2221  conda
+ 2222  conda activate dev
+ 2223  clear
+ 2224  ls
+ 2225  cd Challenge2
+ 2226  ls
+ 2227  cd loan_qualifier_app
+ 2228  clear
+ 2229  code
+ 2230  clear
+ 2231  conda
+ 2232  conda activate dev
+ 2233  clear
+ 2234  python app.py
+ 2235  clear
+ 2236  python app.py
+ 2237  clear
+ 2238  python app.py
+ 2239  conda deactivate
+ 2240  clear
+ 2241  cd ..
+ 2242  pwd
+ 2243  git add .
+ 2244  git commit -m 'adding notation to app.py'
+ 2245  git push
+ 2246  conda deactivate
+ 2247  conda update conda
+ 2248  conda update anaconda
+ 2249  conda install scikit-learn-intelex
+ 2250  conda info --envs
+ 2251  conda create -n qualify_dev python 3.7 anaconda
+ 2252  conda info --envs
+ 2253  conda create -n qualify_dev python=3.7 anaconda
+ 2254  conda info --envs
+ 2255  conda activate qualify_dev
+ 2256  conda list pandas
+ 2257  conda list jupyterlab
+ 2258  conda list fire
+ 2259  conda list pathlib
+ 2260  conda deactivate
+ 2261  conda create -n jupyterlab_dev python=3.7 anaconda
+ 2262  conda activate jupyterlab_dev
+ 2263  conda deactivate
+ 2264  conda info --ens
+ 2265  conda info --envs
+ 2266  conda activate jupyterlab_dev
+ 2267  jupyter lab
+ 2268  conda deactivate
+ 2269  conda activate jupyterlab_dev
+ 2270  python -m ipykernel install --user --name jupyterlab_dev --display-name 'Python (jupyterlab_dev)'
+ 2271  jupyter lab
+ 2272  conda deactivate
+ 2273  conda info --envs
+ 2274  conda activate qualify_dev
+ 2275  python -m ipykernel install --user --name qualify_dev --display-name 'Python (qualify_dev)'
+ 2276  jupyter lab
+ 2277  conda deactivate
+ 2278  conda activate qualify_dev
+ 2279  jupyter lab
+ 2280  conda deactivate
+ 2281  conda list conda
+ 2282  conda list anaconda
+ 2283  version --conda
+ 2284  conda --version conda
+ 2285  conda --version anaconda
+ 2286  conda --version python
+ 2287  conda deactivate
+ 2288  conda info --envs
+ 2289  conda activate jupyterlab_dev
+ 2290  pwd
+ 2291  ls
+ 2292  cd Desktop
+ 2293  ls
+ 2294  cd FinTech_Workspace
+ 2295  ls
+ 2296  cd FinTech_Workspace
+ 2297  cd FinTech-Workspace
+ 2298  ls
+ 2299  cd 01_Import_Data
+ 2300  clear
+ 2301  jupyter lab
+ 2302  conda deactivate
+ 2303  conda info --envs
+ 2304  conda activate qualify_dev
+ 2305  clear
+ 2306  code .
+ 2307  git add .
+ 2308  gitt add *
+ 2309  git add .
+ 2310  git commit -m 'challenge2 readme updates'
+ 2311  git push
+ 2312  git add .
+ 2313  git commit -m 'readme update and testing'
+ 2314  git push
+ 2315  git add .
+ 2316  git commit -m 'testing readme'
+ 2317  git push
+ 2318  code .
+ 2319  ls
+ 2320  cd loan_qualifier_app
+ 2321  python app.py
+ 2322  git push
+ 2323  cd ..
+ 2324  git add .
+ 2325  git commit -m 'testing readme'
+ 2326  git push
+ 2327  ls
+ 2328  cd Challenge2
+ 2329  ls
+ 2330  cd loan_qualifier_app
+ 2331  python app.py
+ 2332  clear
+ 2333  python app.py
+ 2334  cd ..
+ 2335  cd loan_qualifier_app
+ 2336  python app.py
+ 2337  clear
+ 2338  python app.py
+ 2339  clear
+ 2340  python app.py
+ 2341  clear
+ 2342  python app.py
+ 2343  clear
+ 2344  python app.py
+ 2345  clear
+ 2346  python app.py
+ 2347  clear
+ 2348  conda deactivate
+ 2349  conda info --envs
+ 2350  conda activate qualify_dev
+ 2351  clear
+ 2352  python app.py
+ 2353  clear
+ 2354  python app.py
+ 2355  clear
+ 2356  python app.py
+ 2357  clear
+ 2358  python app.py
+ 2359  conda deactivate
+ 2360  python app.py
+ 2361  clear
+ 2362  python app.py
+ 2363  conda activate dev
+ 2364  python app.py
+ 2365  conda deactivate
+ 2366  conda info --envs
+ 2367  conda activate qualify_dev
+ 2368  pip install fire
+ 2369  pip install questionary
+ 2370  conda deactivate
+ 2371  clear
+ 2372  conda deactivate
+ 2373  conda activate qualify_dev
+ 2374  clear
+ 2375  python app.py
+ 2376  clear
+ 2377  python app.py
+ 2378  clear
+ 2379  python app.py
+ 2380  clear
+ 2381  python app.py
+ 2382  clear
+ 2383  python app.py
+ 2384  clear
+ 2385  python app.py
+ 2386  clear
+ 2387  python app.py
+ 2388  clear
+ 2389  python app.py
+ 2390  clear
+ 2391  python app.py
+ 2392  clear
+ 2393  python app.py
+ 2394  clear
+ 2395  python app.py
+ 2396  clear
+ 2397  conda info --envs
+ 2398  conda activate qualify_dev
+ 2399  clear
+ 2400  conda add .
+ 2401  git add .
+ 2402  git commit -m 'challenge2 code complete'
+ 2403  git push
+ 2404  clear
+ 2405  conda deactivate
+ 2406  conda info envs
+ 2407  clear
+ 2408  conda info --envs
+ 2409  conda activate qualify_dev
+ 2410  clear
+ 2411  python app.py
+ 2412  clear
+ 2413  python app.py
+ 2414  clear
+ 2415  python app.py
+ 2416  clear
+ 2417  python app.py
+ 2418  clear
+ 2419  python app.py
+ 2420  clear
+ 2421  python app.py
+ 2422  clear
+ 2423  cd ..
+ 2424  git add .
+ 2425  git commit -m 'challenge 2 cceptance criteria confirmed'
+ 2426  git push
+ 2427  git status
+ 2428  conda deactivate
+ 2429  pwd
+ 2430  cd Desktop
+ 2431  git clone git@github.com:Billie-LS/loan_prequal_qualifier_app.git
+ 2432  ls
+ 2433  cd loan_prequal_qualifier_app
+ 2434  ls
+ 2435  git add .
+ 2436  git status
+ 2437  git commit -m 'transfer challenge2 to individual repository'
+ 2438  git status
+ 2439  git push 
+ 2440  git status
+ 2441  conda deactivate
+ 2442  ls
+ 2443  conda info --envs
+ 2444  conda activate qualify_dev
+ 2445  code
+ 2446  git status
+ 2447  git add .
+ 2448  git commit -m 'readme update repository link'
+ 2449  git push
+ 2450  cd ..
+ 2451  git status
+ 2452  git add *
+ 2453  git commit -m 'readme update repository link'
+ 2454  git push 
+ 2455  git status
+ 2456  git add .
+ 2457  git commit -m 'readme update link'
+ 2458  git push
+ 2459  pwd
+ 2460  cd ~
+ 2461  clear
+ 2462  cd Desktop
+ 2463  ls
+ 2464  cd loan_prequal_qualifier_app
+ 2465  git add
+ 2466  conda deactivate
+ 2467  conda info --envs
+ 2468  conda activate qualify_dev
+ 2469  git add .
+ 2470  git commit -m 'readme'
+ 2471  git push
+ 2472  conda deactivate
+ 2473  cd ~
+ 2474  ls
+ 2475  cd Desktop
+ 2476  ls
+ 2477  cd FinTech_Homeworks
+ 2478  ls
+ 2479  cd Challenge2
+ 2480  git status
+ 2481  code .
+ 2482  cd ~
+ 2483  cd Desktop
+ 2484  ls
+ 2485  cd FinTech_Homeworks
+ 2486  ls
+ 2487  cd Challenge2
+ 2488  ls
+ 2489  git add .
+ 2490  git status
+ 2491  git commit -m 'readme cloan link update'
+ 2492  git push
+ 2493  git status
+ 2494  conda deactivate
+ 2495  git status
+ 2496  code .
+ 2497  git push
+ 2498  conda deactivate
+ 2499  conda
+ 2500  cleaqr
+ 2501  conda info --envs
+ 2502  conda activate qualify_dev
+ 2503  pwd
+ 2504  code .
+ 2505  git add .
+ 2506  git commit -m 'documentation link correct'
+ 2507  git push
+ 2508  conda deactivate
+ 2509  conda
+ 2510  clear
+ 2511  conda info --envs
+ 2512  conda activate qualify_dev
+ 2513  clear
+ 2514  ls
+ 2515  code1
+ 2516  code .
+ 2517* clear
+ 2518* conda
+ 2519* clear
+ 2520* conda activate qualify_dev
+ 2521* clear
+ 2522* ls
+ 2523* cd Challenge2
+ 2524* ls
+ 2525* cd loan_qualifier_app
+ 2526* ls
+ 2527* clear
+ 2528* python app.py
+ 2529* clear
+ 2530* python app.py
+ 2531* clear
+ 2532* python app.py
+ 2533* clear
+ 2534* terminal_history.txt
+ 2535* git status
+ 2536* cd ..
+ 2537* git add .
+ 2538* git commit -m 'documentation update, readme update, primary code refine'
+ 2539* git push
+ 2540* clear
+ 2541* python app.py
+ 2542* ls
+ 2543* cd Challenge2
+ 2544* ls
+ 2545* cd loan_qualifier_app
+ 2546* python app.py
+ 2547* clear
+ 2548* ls
+ 2549* python app.py
+ 2550* clear
+ 2551* cd ..
+ 2552* git status
+ 2553* git add .
+ 2554* git add *
+ 2555* git commit -m 'rich documentation update, script update'
+ 2556* git push
+ 2557* clear
+ 2558  terminal_history.txt
+ 2559* $history 50 > terminal_history.txt
+ 2560* ls
+ 2561* cd Challenge2
+ 2562* ls
+ 2563* cd loan_qualifier_app
+ 2564  $history 50 > terminal_history.txt
+ 2565  ls
+ 2566  cd Challenge2
+ 2567  ls
+ 2568  cd loan_qualifier_app
+ 2569  $history 50 > terminal_history.txt
