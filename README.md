@@ -140,35 +140,46 @@ the following images will display sequential steps and prompts under three examp
 ---
 ## Contributors
 
-*Author*
+### *Author*
 
-    Loki 'billie' Skylizard
+Loki 'billie' Skylizard
+[LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
 
-    [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
 
-*BootCamp lead instructor*
 
-    Vinicio De Sola
+### *BootCamp lead instructor*
 
-*BootCamp teaching assistants*
+Vinicio De Sola
 
-    Corey Recai
-    Santiago Pedemonte
 
-*BootCamp classmates*
 
-    Dinesh Mandal
-    Will Conyea
+### *BootCamp teaching assistants*
 
-*Slack application, student support services via 'askBCS'*
+Corey Recai
 
-    Laanu Adeyeye
-    Tristen Ortiz
+Santiago Pedemonte
 
-*GitHub example and inspiration*
 
-    Daniel Martinez
-    https://github.com/dcmar18/LoanQualifierApp.git
+
+### *BootCamp classmates*
+
+Dinesh Mandal
+
+Will Conyea
+
+
+
+### *Slack application, student support services via 'askBCS'*
+
+Laanu Adeyeye
+Tristen Ortiz
+
+
+
+### *GitHub example and reference*
+
+Daniel Martinez
+[@GitHub](https://github.com/dcmar18/LoanQualifierApp.git)
 
 ---
 ## License
