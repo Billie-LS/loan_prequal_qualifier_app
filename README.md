@@ -9,7 +9,7 @@ The screening application is processed via applicant query for applicant specifi
 Through processing the loan applicant provided data and comparing it to the loan criteria of various lenders, the loan applicant's eligibility for the loan they are seeking is determined.  The program will output for the applicant their calculated monthly debt to income (DTI) ratio, loan to value (LTV) ratio, and, if they qualify, the number of banks with a list of those banks to which they are pre-qualified will be outputted.  The program will then offer to save the list of banks and loan data.  Upon selcting to save the data, the list of banks and loan data within a comma separated values (CSV) file, `bank_loan_list`.
 
 ---
-## *Methods*
+## **Methods**
 
 The command line interface operator/user will input
 
@@ -28,6 +28,8 @@ The command line interface operator/user will input
     * if matches are found and user / operator indicates desire to save,
     * the user / operator will be be prompted for a file path to where the list should be saved,
     * the user / operator will be be notified that the file has been saved to the specified path that has been in putted by the user / operator 
+
+![Loan Qualifier Prompts](images/gen_methods.png)
 
 ---
 ## **Technologies**
