@@ -1,3 +1,38 @@
+1330  ls
+ 1331  cd CU-VIRT-FIN-PT-08-2022-U-B
+ 1332  git pull
+ 1333  cd ~
+ 1334  conda 
+ 1335  conda activate dev
+ 1336  code .
+ 1337  conda deactivate
+ 1338  conda activate dev
+ 1339  conda
+ 1340  clear
+ 1341  conda activate dev
+ 1342  code .
+ 1343  conda
+ 1344  conda activate dev
+ 1345  clear
+ 1346  code .
+ 1347  jupyter lab
+ 1348  cd ~
+ 1349  conda
+ 1350  conda activate dev
+ 1351  pip -V
+ 1352  pip freeze
+ 1353  clear
+ 1354  pip install fire
+ 1355  pip install questionary
+ 1356  ls
+ 1357  cd canvas_practice
+ 1358  ls
+ 1359  mkdir Python_USDtoBTC_UserStory
+ 1360  ls
+ 1361  cd Python_USDtoBTC_UserStory
+ 1362  conda
+ 1363  conda activate dev
+ 1364  clear
  1365  code .
  1366  ls
  1367  cd ..
@@ -1150,56 +1185,116 @@
  2514  ls
  2515  code1
  2516  code .
- 2517* clear
- 2518* conda
- 2519* clear
- 2520* conda activate qualify_dev
- 2521* clear
- 2522* ls
- 2523* cd Challenge2
- 2524* ls
- 2525* cd loan_qualifier_app
- 2526* ls
- 2527* clear
- 2528* python app.py
- 2529* clear
- 2530* python app.py
- 2531* clear
- 2532* python app.py
- 2533* clear
- 2534* terminal_history.txt
- 2535* git status
- 2536* cd ..
- 2537* git add .
- 2538* git commit -m 'documentation update, readme update, primary code refine'
- 2539* git push
- 2540* clear
- 2541* python app.py
- 2542* ls
- 2543* cd Challenge2
- 2544* ls
- 2545* cd loan_qualifier_app
- 2546* python app.py
- 2547* clear
- 2548* ls
- 2549* python app.py
- 2550* clear
- 2551* cd ..
- 2552* git status
- 2553* git add .
- 2554* git add *
- 2555* git commit -m 'rich documentation update, script update'
- 2556* git push
- 2557* clear
+ 2517  clear
+ 2518  conda
+ 2519  clear
+ 2520  conda activate qualify_dev
+ 2521  clear
+ 2522  ls
+ 2523  cd Challenge2
+ 2524  ls
+ 2525  cd loan_qualifier_app
+ 2526  ls
+ 2527  clear
+ 2528  python app.py
+ 2529  clear
+ 2530  python app.py
+ 2531  clear
+ 2532  python app.py
+ 2533  clear
+ 2534  terminal_history.txt
+ 2535  git status
+ 2536  cd ..
+ 2537  git add .
+ 2538  git commit -m 'documentation update, readme update, primary code refine'
+ 2539  git push
+ 2540  clear
+ 2541  python app.py
+ 2542  ls
+ 2543  cd Challenge2
+ 2544  ls
+ 2545  cd loan_qualifier_app
+ 2546  python app.py
+ 2547  clear
+ 2548  ls
+ 2549  python app.py
+ 2550  clear
+ 2551  cd ..
+ 2552  git status
+ 2553  git add .
+ 2554  git add *
+ 2555  git commit -m 'rich documentation update, script update'
+ 2556  git push
+ 2557  clear
  2558  terminal_history.txt
- 2559* $history 50 > terminal_history.txt
- 2560* ls
- 2561* cd Challenge2
- 2562* ls
- 2563* cd loan_qualifier_app
+ 2559  $history 50 > terminal_history.txt
+ 2560  ls
+ 2561  cd Challenge2
+ 2562  ls
+ 2563  cd loan_qualifier_app
  2564  $history 50 > terminal_history.txt
  2565  ls
  2566  cd Challenge2
  2567  ls
  2568  cd loan_qualifier_app
  2569  $history 50 > terminal_history.txt
+ 2570  history 50 > terminal_history.txt
+ 2571  history 50 < terminal_history.txt 
+ 2572  cd ..
+ 2573  git status
+ 2574  git add .
+ 2575  git add *
+ 2576  git commit -m 'project terminal history'
+ 2577  git push
+ 2578  conda deactivate
+ 2579  conda
+ 2580  clear
+ 2581  git status
+ 2582  git add .
+ 2583  git add *
+ 2584  git commit -m 'repository file structure re-organize'
+ 2585  git push
+ 2586  git status
+ 2587  conda deactivate
+ 2588  conda info --envs
+ 2589  conda activate qualify_dev
+ 2590  clear
+ 2591  code .
+ 2592  clear
+ 2593  ls
+ 2594  conda activate qualify_dev
+ 2595  clear
+ 2596  python app.py
+ 2597* git status
+ 2598* git add .
+ 2599* git add *
+ 2600* git status
+ 2601* git commit -m 'gitignore'
+ 2602* git push
+ 2603* git status
+ 2604* git add .
+ 2605* git status
+ 2606* git commit -m 'readme hyper links and contributors acknowledgements'
+ 2607* git push
+ 2608  clear
+ 2609* git status
+ 2610* git add .
+ 2611* git commit -m 'finalize documentation, readme, source control information, script'
+ 2612* git push
+ 2613* git add *
+ 2614* git commit -m 'source control history'
+ 2615* git push
+ 2616  python app.py
+ 2617* git add .
+ 2618* git commit -m 'methods rich content'
+ 2619* git push
+ 2620* git status
+ 2621  clear
+ 2622* python app.pgit status
+ 2623* git status
+ 2624* git add .
+ 2625* clear
+ 2626* git status
+ 2627* git commit -m 'modified readme, images for app.py'
+ 2628* git push
+ 2629* clear
