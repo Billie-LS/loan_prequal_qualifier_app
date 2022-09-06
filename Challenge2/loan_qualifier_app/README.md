@@ -9,17 +9,24 @@ The screening application is processed via applicant query for applicant specifi
 Through processing the loan applicant provided data and comparing it to the loan criteria of various lenders, the loan applicant's eligibility for the loan they are seeking is determined.  The program will output for the applicant their calculated monthly debt to income (DTI) ratio, loan to value (LTV) ratio, and, if they qualify, the number of banks with a list of those banks to which they are pre-qualified will be outputted.  The program will then offer to save the list of banks and loan data.  Upon selcting to save the data, the list of banks and loan data within a comma separated values (CSV) file, `bank_loan_list`.
 
 ---
-## Methods
+## *Methods*
 
 The command line interface operator/user will input
+
     file path for the `daily_rate_sheet`
     applicant's
+
         credit score
         monthly debt
         monthly income
         desired loan size
         current home value
-    if qualified, file path to save list of banks and associated loan data
+
+    the user / operator will be prompted for loan applicant's desire to save or not save,
+    the app will output as to available matches found or none found to be saved,
+    if no matches are identified, file path to save list of banks and associated loan data,
+    the user / operator will be be prompted for a fil path to where the list should be saved,
+    the user / operator will be finally be notified that the file has been saved to the specified path 
 
 ---
 ## Dependencies
@@ -39,12 +46,12 @@ This project leverages python 3.7 with the following packages:
 
 ## *Hardware used for development*
 
-macOS Monterey version 12.5.1
+MacBook Pro (16-inch, 2021)
 
-    MacBook Pro (16-inch, 2021)
     Chip Appple M1 Max
+    macOS Monterey version 12.5.1
 
-## Development Software
+## *Development Software*
 
 Homebrew 3.5.10
 
@@ -66,7 +73,7 @@ git version 2.37.2
 Visual Studio Code version: 1.71.0 (Universal)
 
 ---
-## Installation Guide
+## *Pre-Installation Guide*
 
 Before running the application first install the following dependencies.
 
@@ -76,10 +83,10 @@ Before running the application first install the following dependencies.
 ```
 * if difficulties with installation, please refer to additional instructions as below:*
   
-  *[fire](https://github.com/google/python-fire#installation) - for expanded information and installation instructions
+  * [fire](https://github.com/google/python-fire#installation) - for expanded information and installation instructions
 
 ---
-## Install of application (i.e. github clone)
+## *Installation of application (i.e. github clone)*
 
  In the terminal, navigate to directory where you want to install this application from the repository and enter the following command
 
@@ -88,20 +95,47 @@ git clone git@github.com:Billie-LS/FinTech_Homeworks.git
 ```
 
 ---
+## *Usage*
 
-## Usage
+From terminal, the installed application is run from the installed directory by typing at prompt:
+
+```python
+  > python app.py
+```
+the following images will display sequential steps and prompts under three example protypical applicant scenarios.
+
+    scenario 1 - typical good candidate
+        credit score 750, 
+        monthly debt $1200, 
+        monthly income $7500, 
+        desired loan size $100000,
+        current home value $140000
+
+![Loan Qualifier Prompts](images/perfect_app1.png)
+![Loan Qualifier Prompts](images/perfect_app2.png)
+![Loan Qualifier Prompts](images/perfect_app_complete.png)
+
+    scenario 2 - good candidate, mistakenly enterred wrong / inadequate credit score
+![Loan Qualifier Prompts](images/perfect_mistake1.png)
+![Loan Qualifier Prompts](images/perfect_mistake_complete.png)
+
+    scenario 3 - candidate with inadequate credit score
+![Loan Qualifier Prompts](images/too_low1.png)
+![Loan Qualifier Prompts](images/too_low2.png)
+![Loan Qualifier Prompts](images/too_low_complete.png)
+
 ---
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+## *Requirement stories and acceptance criteria*
+
+    Provided in separate file within the loan_qualifier_app directory
 
 ---
-
 ## Contributors
----
+
 *Author*
 
     Loki 'billie' Skylizard
-    [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
-    https://www.linkedin.com/in/l-s-6a0316244/
+    * [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
 
 *BootCamp lead instructor*
 
@@ -123,7 +157,6 @@ This section should include screenshots, code blocks, or animations explaining h
     Tristen Ortiz
 
 ---
-
 ## License
 
 When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
