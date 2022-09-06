@@ -1,4 +1,4 @@
-1330  ls
+ 1330  ls
  1331  cd CU-VIRT-FIN-PT-08-2022-U-B
  1332  git pull
  1333  cd ~
