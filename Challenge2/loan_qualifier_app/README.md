@@ -81,9 +81,12 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
 ```
+![Loan Qualifier Prompts](images/install_fire.png)
+![Loan Qualifier Prompts](images/install_questionary.png)
+
 * if difficulties with installation, please refer to additional instructions as below:*
   
-  * [fire](https://github.com/google/python-fire#installation) - for expanded information and installation instructions
+  [fire](https://github.com/google/python-fire#installation) - for expanded information and installation instructions
 
 ---
 ## *Installation of application (i.e. github clone)*
@@ -104,7 +107,7 @@ From terminal, the installed application is run from the installed directory by 
 ```
 the following images will display sequential steps and prompts under three example protypical applicant scenarios.
 
-    scenario 1 - typical good candidate
+###    scenario 1 - typical good candidate
         credit score 750, 
         monthly debt $1200, 
         monthly income $7500, 
@@ -115,14 +118,18 @@ the following images will display sequential steps and prompts under three examp
 ![Loan Qualifier Prompts](images/perfect_app2.png)
 ![Loan Qualifier Prompts](images/perfect_app_complete.png)
 
-    scenario 2 - good candidate, mistakenly enterred wrong / inadequate credit score
+###    scenario 2 - good candidate, mistakenly enterred wrong / inadequate credit score
 ![Loan Qualifier Prompts](images/perfect_mistake1.png)
 ![Loan Qualifier Prompts](images/perfect_mistake_complete.png)
 
-    scenario 3 - candidate with inadequate credit score
+###    scenario 3 - candidate with inadequate credit score 
 ![Loan Qualifier Prompts](images/too_low1.png)
 ![Loan Qualifier Prompts](images/too_low2.png)
 ![Loan Qualifier Prompts](images/too_low_complete.png)
+
+###    scenario 4 - good candidate seeking too large a loan
+![Loan Qualifier Prompts](images/too_much.png)
+![Loan Qualifier Prompts](images/too_much_complete.png)
 
 ---
 ## *Requirement stories and acceptance criteria*
@@ -159,4 +166,5 @@ the following images will display sequential steps and prompts under three examp
 ---
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT
+

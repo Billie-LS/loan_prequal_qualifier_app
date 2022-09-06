@@ -94,6 +94,7 @@ def save_qualifying_loans(qualifying_loans):
     # YOUR CODE HERE!
     number_of_qualifying_loans = len(qualifying_loans)
 
+    # usability CLI update criteria, use .confirm().ask()
     saveFile = questionary.confirm(
         'do you want to save your qualifying bank loans?').ask()
 
