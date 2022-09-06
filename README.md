@@ -142,7 +142,8 @@ the following images will display sequential steps and prompts under three examp
 *Author*
 
     Loki 'billie' Skylizard
-    > [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
+
+    [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
 
 *BootCamp lead instructor*
 
@@ -162,6 +163,11 @@ the following images will display sequential steps and prompts under three examp
 
     Laanu Adeyeye
     Tristen Ortiz
+
+*GitHub example and inspiration*
+
+    Daniel Martinez
+    https://github.com/dcmar18/LoanQualifierApp.git
 
 ---
 ## License
