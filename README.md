@@ -22,14 +22,17 @@ The command line interface operator/user will input
         desired loan size
         current home value
 
-    * the user / operator will be prompted for loan applicant's desire to save or not save,
-    * the app will output as to available matches found or none found to be saved,
-    * if no matches are identified, file path to save list of banks and associated loan data,
-    * the user / operator will be be prompted for a fil path to where the list should be saved,
-    * the user / operator will be finally be notified that the file has been saved to the specified path 
+    * the app will output as to available matches found or none found,
+    * if no matches are found, the user / operator will be be prompted as to desire to save,
+    * if no matches are identified, but user / operator indicates desire to save, output message will indicate there is none to save,
+    * if matches are found and user / operator indicates desire to save,
+    * the user / operator will be be prompted for a file path to where the list should be saved,
+    * the user / operator will be be notified that the file has been saved to the specified path that has been in putted by the user / operator 
 
 ---
-## Dependencies
+## **Technologies**
+---
+### **Dependencies**
 
 This project leverages python 3.7 with the following packages:
 
@@ -44,14 +47,14 @@ This project leverages python 3.7 with the following packages:
 * [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
 
 
-## *Hardware used for development*
+### **Hardware used for development**
 
 MacBook Pro (16-inch, 2021)
 
     Chip Appple M1 Max
     macOS Monterey version 12.5.1
 
-## *Development Software*
+### **Development Software**
 
 Homebrew 3.5.10
 
@@ -105,7 +108,7 @@ From terminal, the installed application is run from the installed directory by 
 ```python
   > python app.py
 ```
-the following images will display sequential steps and prompts under three example protypical applicant scenarios.
+the following images will display sequential steps and prompts under four example protypical applicant scenarios.
 
 ###    scenario 1 - typical good candidate
         credit score 750, 
@@ -132,28 +135,39 @@ the following images will display sequential steps and prompts under three examp
 ![Loan Qualifier Prompts](images/too_much_complete.png)
 
 ---
-## *Requirements*
+## **Requirements**
 ### user stories and acceptance criteria
 
     Provided in directory `y_stories`
 
 ---
-## Contributors
+## **Version control**
 
-### *Author*
+This project was transferred to its current / new repository location.  For current / post-transfer GitHub repository version control history information please follow hyperlink.
+
+[post-transfer-repository](https://github.com/Billie-LS/loan_prequal_qualifier_app)
+
+For earlier / pre-transfer GitHub repository version control history information please follow hyperlink.
+
+[pre-transfer-repository](https://github.com/Billie-LS/FinTech_Homeworks/commits/main/Challenge2)
+
+---
+## **Contributors**
+
+### **Author**
 
 Loki 'billie' Skylizard
 [LinkedIn](https://www.linkedin.com/in/l-s-6a0316244)
 
 
 
-### *BootCamp lead instructor*
+### **BootCamp lead instructor**
 
 Vinicio De Sola
 
 
 
-### *BootCamp teaching assistants*
+### **BootCamp teaching assistants**
 
 Corey Recai
 
@@ -161,22 +175,23 @@ Santiago Pedemonte
 
 
 
-### *BootCamp classmates*
+### **BootCamp classmates**
 
 Dinesh Mandal
 
 Will Conyea
+[@GitHub](https://github.com/willkanye)
 
 
-
-### *Slack application, student support services via 'askBCS'*
+### **Slack application, student support services via 'askBCS'**
 
 Laanu Adeyeye
+
 Tristen Ortiz
 
 
 
-### *GitHub example and reference*
+### **GitHub example and reference**
 
 Daniel Martinez
 [@GitHub](https://github.com/dcmar18/LoanQualifierApp.git)
