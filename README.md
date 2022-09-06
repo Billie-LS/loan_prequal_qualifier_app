@@ -132,9 +132,10 @@ the following images will display sequential steps and prompts under three examp
 ![Loan Qualifier Prompts](images/too_much_complete.png)
 
 ---
-## *Requirement stories and acceptance criteria*
+## *Requirements*
+### user stories and acceptance criteria
 
-    Provided in separate file within the loan_qualifier_app directory
+    Provided in directory `y_stories`
 
 ---
 ## Contributors
